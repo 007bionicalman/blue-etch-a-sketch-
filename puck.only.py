@@ -4,7 +4,7 @@ pygame.init()
 
 screen = pygame.display.set_mode([1000, 810])
 
-scree =  pygame.display.set_caption ( "Paddles and puck")
+scree =  pygame.display.set_caption ( "BLUE-ETCH-A-SKETCH")
 
 running = True
 
